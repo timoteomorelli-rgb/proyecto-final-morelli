@@ -2,7 +2,7 @@
 
 Programación Analítica II · Universidad de Montevideo · S2 2026 · Docente: Camila Palomeque
 
-**Autor:** Timoteo Morelli (trabajo individual)
+**Autor:** Timoteo Morelli 
 
 ## Qué hace el proyecto
 
