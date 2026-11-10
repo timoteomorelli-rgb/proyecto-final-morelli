@@ -42,7 +42,7 @@ proyecto-final-morelli/
 **1. Clonar el repositorio**
 
 ```bash
-git clone https://github.com/<usuario>/proyecto-final-morelli.git
+git clone https://github.com/timoteomorelli-rgb/proyecto-final-morelli.git
 cd proyecto-final-morelli
 ```
 
@@ -67,8 +67,8 @@ cd notebooks
 jupyter nbconvert --to notebook --execute --inplace proyecto_final_cine.ipynb
 ```
 
-**En Google Colab:** subir el notebook, crear una carpeta `datos` en `/content` con los dos CSV y
-cambiar en la primera celda `pio.renderers.default = "notebook"` por `"colab"`.
+**En Google Colab:** subir el notebook y crear una carpeta `datos` en `/content` con los dos CSV. El
+notebook detecta solo que está en Colab para mostrar los gráficos de Plotly.
 
 El notebook es uno solo y se corre en orden. Lee los datos de `datos/` y guarda todo lo que genera en
 `salidas/`. La simulación usa una semilla fija (`SEMILLA = 2026`), así que da siempre los mismos números.
