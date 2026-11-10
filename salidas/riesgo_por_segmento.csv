@@ -1,0 +1,32 @@
+segmento,peliculas,multiplo_mediano,prob_perder_pct,peor_decil,presupuesto_mediano_M,cantidad_que_lo_dominan
+Terror · Bajo (<10M),106,6.63,32.08,0.55,4.64,0
+Animación · Franquicia,71,3.83,29.58,1.27,84.42,0
+Terror · Franquicia,59,3.55,23.73,1.29,10.92,0
+Animación · Alto (40-100M),98,3.08,40.82,0.55,67.72,3
+Acción · Franquicia,265,2.87,44.15,0.99,77.78,5
+Animación · Muy alto (>100M),112,2.87,41.07,0.88,155.35,4
+Terror · Medio (10-40M),117,2.76,41.88,0.28,20.38,5
+Animación · Medio (10-40M),48,2.71,47.92,0.47,28.45,7
+Aventura · Franquicia,41,2.68,46.34,0.48,79.2,7
+Comedia · Franquicia,88,2.56,47.73,0.48,31.54,8
+Acción · Muy alto (>100M),383,2.5,49.87,0.87,149.96,10
+Drama · Bajo (<10M),192,2.35,52.08,0.19,4.74,11
+Aventura · Muy alto (>100M),67,2.3,52.24,0.84,143.84,12
+Comedia · Bajo (<10M),271,2.16,52.4,0.1,5.3,13
+Biografía · Bajo (<10M),39,2.03,53.85,0.22,6.55,14
+Aventura · Medio (10-40M),119,1.9,57.14,0.14,22.54,15
+Comedia · Alto (40-100M),396,1.77,63.64,0.37,54.0,16
+Comedia · Muy alto (>100M),58,1.77,67.24,0.43,114.17,17
+Comedia · Medio (10-40M),751,1.75,63.38,0.28,23.29,16
+Acción · Alto (40-100M),520,1.72,67.31,0.39,62.48,19
+Drama · Muy alto (>100M),41,1.71,68.29,0.29,122.24,20
+Biografía · Alto (40-100M),83,1.57,71.08,0.32,56.44,21
+Acción · Medio (10-40M),414,1.55,69.08,0.32,26.31,21
+Acción · Bajo (<10M),87,1.42,57.47,0.07,5.37,16
+Biografía · Medio (10-40M),177,1.39,68.36,0.21,22.17,22
+Drama · Alto (40-100M),208,1.37,70.19,0.24,59.0,24
+Drama · Medio (10-40M),421,1.36,64.37,0.12,22.42,19
+Policial · Alto (40-100M),103,1.36,69.9,0.28,57.48,25
+Aventura · Alto (40-100M),113,1.1,74.34,0.21,57.85,28
+Policial · Medio (10-40M),205,1.09,74.63,0.13,23.06,29
+Policial · Bajo (<10M),71,0.97,69.01,0.14,5.22,24
